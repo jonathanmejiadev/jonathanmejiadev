@@ -1,6 +1,6 @@
 # Hi!, I'm Jonathan Mejia 👨🏻‍💻
 
-a Full Stack JavaScript Developer, focused mainly on Backend.
+a Full Stack Web Developer, focused mainly on Backend.
 
 ## About me 
 
