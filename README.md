@@ -4,9 +4,9 @@ a Full Stack Web Developer, focused mainly on Backend.
 
 ## About me 
 
-- :earth_americas: I'm from Buenos Aires - Argentina
-- 📚 I'm a university student for Bachelor of Information Systems at UNGS
-- 🚀 I'm always learning and trying to get better
+- :earth_americas: I'm from Buenos Aires - Argentina.
+- 📚 4th year Bachelor of Information Systems at UNGS in progress.
+- 🚀 I'm always learning and trying to get better.
 
 ## ⚡ Technologies
 
