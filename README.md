@@ -21,6 +21,7 @@ a Full Stack Web Developer, focused mainly on Backend.
 ![HTML5](https://img.shields.io/badge/-HTML5-black?style=for-the-badge&logo=html5)
 ![CSS3](https://img.shields.io/badge/-CSS3-black?style=for-the-badge&logo=css3&logoColor=blue)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-black?style=for-the-badge&logo=bootstrap)
+![Styled Components](https://img.shields.io/badge/styled--components-black?style=for-the-badge&logo=styled-components&logoColor=white)
 
 #### Backend
 ![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=for-the-badge&logo=Node.js)
